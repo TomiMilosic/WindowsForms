@@ -1,4 +1,4 @@
-# Naloga5
+# WinForms
  
 Uporabniški vmesnik z ogrodjem windows forms. Povezan je s WCF storitvijo in omogoča dodajanje, brisanje ter urejanje entitet.
 
